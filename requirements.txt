@@ -1,0 +1,17 @@
+# Telegram bot framework (async) used for building the bot
+python-telegram-bot>=21.0.0
+
+# Load TELEGRAM_BOT_TOKEN from .env securely
+python-dotenv>=1.0.0
+
+# Image handling (PNG info) and general image operations
+Pillow>=10.0.0
+
+# Extract EXIF metadata from JPEG images
+exifread>=3.0.0
+
+# Read PDF metadata such as author/title/creation
+PyPDF2>=3.0.0
+
+# Read DOCX core properties (author, created/modified)
+python-docx>=1.0.0
